@@ -1,0 +1,174 @@
+.body{
+    font-family: 'Open Sans', sans-serif;
+}
+.logo-munu{
+    width: 10%;
+}
+.my-font{
+    font-family: 'Oswald', sans-serif;
+    font-size: 25px;
+}
+.beaner{
+    background: url(../images/baner/bnr.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 99%;
+}
+.baner-hadding{
+    font-family: 'Pacifico', cursive;
+    letter-spacing: 1px;
+}
+.baner-text{
+    text-align: justify !important;
+}
+.about{
+    background: url(../images/about/about-bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 99%;
+}
+.bg{
+    background: #44434352;
+}
+.about-header{
+    text-transform: uppercase;
+    color: ghostwhite;
+    font-family: 'Aladin', cursive;
+}
+.baner_bottom_line{
+    color: darkorange;
+    text-align: center;
+}
+.contant-p{
+    color: bisque;
+    padding-bottom: 50px;
+}
+.munu{
+    width: 99%;
+    background: #444444;
+    margin-top: -16px;
+}
+.munu-hadding{
+    text-align: center;
+}
+.munu-h{
+    text-transform: uppercase;
+    color: white;
+    font-family: 'Aladin', cursive;
+}
+.munu-about-line{
+    color: white;
+}
+.coffee_card{
+    text-align: center;
+    text-transform: capitalize;
+    background: #e9d7c2b5;
+}
+.glary{
+    width: 99%;
+}
+.galary_hading{
+    text-transform: uppercase;
+    color: black;
+    font-family: 'Aladin', cursive;
+}
+.galary_img_s{
+    height: 200px;
+    width: 100%;
+}
+.best-prodact{
+    background: #444444;
+    width: 99%;
+}
+.best_hadding{
+    text-align: center;
+}
+.best-h{
+    text-transform: uppercase;
+    color: white;
+    font-family: 'Aladin', cursive;
+}
+
+.best-about-line{
+    color: white;
+}
+.best-img-heigth{
+    height: 210px;
+}
+.dis-card{
+    text-align: center;
+    background: lavender;
+}
+.weekbest{
+    width: 99%;
+    background: #f7e9d080;
+}
+.subcrive{
+    background: url(../images/sub/bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 99%;
+}
+.sub_contant{
+    
+width: 45%;
+}
+.sub_hading{
+    color: tomato;
+    text-transform: uppercase;
+    font-family: 'Luckiest Guy', cursive;
+    background: url(../images/sub/text-color.gif);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    letter-spacing: 4px;
+}
+.bg-3{
+    background: #00000075;
+}
+.sub-in{
+    width: 100%;
+    padding: 10px;
+    background: none;
+    outline: none;
+    border: none;
+    border-bottom: 2px solid snow;
+    color: white;
+}
+.sub-in::placeholder{
+    text-transform: capitalize;
+    color: gold;
+}
+.chef{
+    width: 99%;
+}
+.chef_hader{
+    text-transform: uppercase;
+    color: unset;
+    font-family: 'Aladin', cursive;
+    border-bottom: 2px solid red;
+    display: inline-block;
+    padding-bottom: 11px;
+}
+.chef-img{
+    width: 100%;
+    height: 450px;
+}
+.chef-name{
+    text-transform: capitalize;
+    margin-top: 36px;
+    border-bottom: 2px solid gray;
+    width: 175px;
+}
+.contact{
+    background: url(../images/bg.avif);
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-top: 3px;
+    width: 99%;
+}
+.bg-4{
+    background: #000000e0;
+}
+.l-p-color{
+    color: #f9f9f999;
+}
